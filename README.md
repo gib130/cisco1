@@ -13,9 +13,9 @@ Event List tracert:
 
 Nslookup:
 
-![img](https://github.com/gib130/cisco1/blob/master/3.png)
+![img](https://github.com/gib130/cisco1/blob/master/4.png)
 
 EventList:
 
-![img](https://github.com/gib130/cisco1/blob/master/4.png)
+![img](https://github.com/gib130/cisco1/blob/master/3.png)
 
